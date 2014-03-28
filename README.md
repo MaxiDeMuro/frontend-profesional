@@ -1,3 +1,5 @@
+Autor: @MaxiDeMuro
+
 frontend-profesional
 ====================
 
